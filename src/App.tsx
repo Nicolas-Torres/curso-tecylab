@@ -1,11 +1,9 @@
 import './App.css'
-import { UseEffectPage } from './pages/UseEffectPage';
-import { UseMemoPage } from './pages/useMemoPage';
 
 function App() {
 
-  return <UseMemoPage/>
-  // return <UseEffectPage/>
+  return 
+  <div>clase5</div>
 }
 
 export default App
